@@ -1,0 +1,14 @@
+  
+  .create-ads-container {
+    width: calc(100% - 2cm);
+    height: calc(100% - 2cm);
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+  }
+  
+  .next-button {
+    margin-top: 20px;
+  }
+  

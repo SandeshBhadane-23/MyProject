@@ -1,0 +1,8 @@
+/* global-styles.css */
+body {
+    background-color: white;
+    margin: 0; /* Ensure no default body margin */
+    padding: 0; /* Ensure no default body padding */
+    width: 100%;
+  }
+  
